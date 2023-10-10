@@ -63,3 +63,4 @@ draft = false
 - **Audience:** General public or informal audience.
 - **Examples:** Blogs, personal letters, diaries.
 
+This is just a basic categorization, and many sub-genres and nuanced categories exist within each of these broad types.
