@@ -5,10 +5,10 @@ draft = false
 +++
 
 # Responsiblities:
-## Club President: Shruthika
-## Co VP: Megan
-## Co VP: Berke
-## Secretary: Raghav
+*  President: Shruthika
+* Co VP: Megan
+* Co VP: Berke
+* Secretary: Raghav
 
 We will be   writing great while sharing a lot of fun , pointers and more. 
 
