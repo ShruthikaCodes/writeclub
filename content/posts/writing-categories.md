@@ -1,7 +1,7 @@
 +++
 title = 'Writing Categories'
 date = 2023-10-09T18:57:21-07:00
-draft = true
+draft = false
 +++
 # Different Kinds of Writing
 
